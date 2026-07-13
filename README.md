@@ -1,4 +1,7 @@
 # Easy Sprite Upscaling
+
+![Demo](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3h0MmJrOXg0Nmo2OWMyaThlOWNpcjVkaW55ZzEyZWpqZ2RlM293dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WfKlKG5mQ5hE15eMpC/giphy.gif)
+
 This is a tool to quickly upscale your sprite by 200% using Ctrl + Arrow Key Up. This bypasses the need to go into the menus Sprite > Sprite Size and then having to enter 200% manually.
 
 Upscaling your sprite is often needed to export small canvas sizes like 16 x 16 at a high quality since the highest export option is 1000% (10x), which would result in a low resolution image (160 x 160). Upscaling it quickly by using this script once or even a few times will grant you better results when exporting. 
