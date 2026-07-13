@@ -1,7 +1,9 @@
-# Easy-Aspect-Ratio
-This is a tool to easily resize your canvas to many different aspect ratios without having to do the calculations yourself. You just put in your wanted aspect ratio, choose which side's dimension you want to base your calculation on, and hit "Resize". It's as easy as that!
+# Easy Sprite Upscaling
+This is a tool to quickly upscale your sprite by 200% using Ctrl + Arrow Key Up. This bypasses the need to go into the menus Sprite > Sprite Size and then having to enter 200% manually.
 
-All you have to do is download the file and drag the extracted lua file into the Aseprite Script Folder.  To quickly access it, I recommend setting up a shortcut key.
+Upscaling your sprite is often needed to export small canvas sizes like 16 x 16 at a high quality since the highest export option is 1000% (10x), which would result in a low resolution image (160 x 160). Upscaling it quickly by using this script once or even a few times will grant you better results when exporting. 
+
+Also included is the counter part as a script, decreasing the sprite size by 50% after you are done exporting and want to return to your original sprite size. This is possible by using Ctrl + Arrow Key Down.
 
 ---
 
